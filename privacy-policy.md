@@ -21,7 +21,7 @@ Theme unlocks and app settings are stored locally on your device. No external se
 Pomodere may display banner ads via Google AdMob. These ads may use anonymized identifiers in compliance with Google Play policies.
 
 ## Contact
-For any privacy concerns, you may reach us at: justinfoleyx90@gmail.com
+For any privacy concerns, you may reach us at: pomodere01@gmail.com
 
 ---
 
