@@ -20,6 +20,9 @@ Theme unlocks and app settings are stored locally on your device. No external se
 ## Advertising
 Pomodere may display banner ads via Google AdMob. These ads may use anonymized identifiers in compliance with Google Play policies.
 
+### Manage Consent
+You can manage or revoke your consent preferences by tapping the consent prompt in the app or by visiting [this page](https://www.yourlinkhere.com).
+
 ## Contact
 For any privacy concerns, you may reach us at: pomodere01@gmail.com
 
